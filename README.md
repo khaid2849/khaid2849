@@ -50,23 +50,26 @@ A feature-rich Discord bot with music playback capabilities and comprehensive lo
 - **Tech Stack:** Python, FastAPI
 - **Features:** Music Playback, Queue System, Voice Channel Management, Comprehensive Logging, Slash Commands, Error Handling
 
+### 📱 Some Odoo app make for fun here:
+- [Password Eyes Icon Widget](https://github.com/khaid2849/password-eyes-icon): This module adds an eye icon to toggle visibility for password fields in both backend forms and public-facing pages (login, signup, reset password).
+- [User Notification Bell Module](https://github.com/khaid2849/notification-bell): This module offers a user notification system within Odoo, akin to social media platforms.
+- [Language Option Systray Menu](https://github.com/khaid2849/language-option-menu): This Odoo module adds a convenient language selection menu directly into the system tray
+  
 ## 🤝 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khaid284/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=react&logoColor=white)](https://[your-portfolio-url])
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:[khaidang28499@gmail.com])
 
-## 💭 Random Dev Quote
+<div align="center">
+
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=[khaid2849]&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
-</div>
 
 <div align="center">
   
 **Thanks for visiting my profile! Have a great day! 😊**
 
 </div>
+
