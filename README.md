@@ -41,8 +41,8 @@ A back-end developer working with Python Framework since the beginning of 2022.
 ## 🏆 Featured Projects
 
 ### 🌐 [YouTube Script Generator & Media Downloader](https://github.com/khaid2849/YT-ScriptGen)
-Brief description of your project. What it does, technologies used, and why it's cool.
-- **Tech Stack:** Python, Node.js, PostgreSQL
+A comprehensive web application that converts YouTube videos into timestamped text scripts and provides video/audio downloading functionality with modern dark/light theme support.
+- **Tech Stack:** Python, Javascript, Node.js, PostgreSQL
 - **Features:** Youtube Transcript, Download Video, Download Audio
 
 ### 🤖 [Discord Music Bot](https://github.com/khaid2849/custom-discord-bot)
